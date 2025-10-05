@@ -12,19 +12,10 @@ Flutter Weather UI is a user interface design for a weather app that is implemen
 
 
 
-
-## What you should know before you start
-
- - [Learn how to convert svg file to ClipPath](https://www.youtube.com/watch?v=P0eZ0XH5FdI)
  
 
 
 
-
-
-## Technologies Used
-
- - ClipPath Tool
 
 
 
@@ -33,15 +24,5 @@ Flutter Weather UI is a user interface design for a weather app that is implemen
 The application is currently being tested on Android.
 
 
-```
-Flutter SDK 
- sdk: '>=3.2.3 <4.0.0'
 
- kotlin version = 1.9.0
 
- gradle = 8.3.0 
-```
-
-## Build By
-
-[Najm Al-Den](https://github.com/najm-flutter)
